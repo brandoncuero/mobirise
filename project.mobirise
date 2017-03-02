@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "3.12"
   },
   "pages": {
@@ -70,8 +70,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"---\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">BRANDON CUERO</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"--- \" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"--- \" target=\"_blank\">ABOUT ME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://docs.google.com/document/d/1uxUNLACK2RCgNp5FWE38DdGZ9fUhRY3e_xpdkjI_Ax0/pub\" target=\"_blank\">CLASS AGENDA</a></li>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://dadeschools.net\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">BRANDON CUERO</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"---\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://drive.google.com/drive/folders/0B2XrvlbF8MgrWFFCXzdPWVhSelU\" target=\"_blank\">Google Drive | Logon<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://docs.google.com/document/d/1uxUNLACK2RCgNp5FWE38DdGZ9fUhRY3e_xpdkjI_Ax0/pub\" target=\"_blank\">CLASS AGENDA</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Technology Production Website</a></li>"
         },
         {
@@ -123,7 +123,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>ADDRESS</strong><br>15015 SW 24 Street<br>Miami, FL 33185<br><br>\n<strong>CONTACTS</strong><br>Email: 0373633@students.dadeschools.net <br>Phone: 305 916-8241<br>Fax: 305-916-8241<br>",
+          "text1": "<strong>ADDRESS</strong><br>15015 SW 24 Street<br>Miami, FL 33185<br><br>\n<strong>CONTACTS</strong><br>Email: 0373633@students.dadeschools.net <br>Phone: 305 916-8241<br>Fax: 305-916-8241<br><b>NOTE</b><br><b>~Coming Soon~<br></b><br><br>",
           "text2": "<ul class=\"mbr-contacts__list\"></ul>",
           "form": {
             "title": "MESSAGE",
@@ -160,6 +160,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "footer1-4",
           "_params": {
             "paddingTop": 3,
@@ -167,18 +172,13 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#444444",
+            "bgColor": "#f97352",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 BRANDON CUERO. &nbsp; &nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "Copyright (c) 2017 BRANDON CUERO. &nbsp;&nbsp;"
         }
       ]
     }
