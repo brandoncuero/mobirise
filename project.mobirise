@@ -70,9 +70,9 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://dadeschools.net\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">BRANDON CUERO</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"---\">Home</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://drive.google.com/drive/folders/0B2XrvlbF8MgrWFFCXzdPWVhSelU\" target=\"_blank\">Google Drive | Logon<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://docs.google.com/document/d/1uxUNLACK2RCgNp5FWE38DdGZ9fUhRY3e_xpdkjI_Ax0/pub\" target=\"_blank\">CLASS AGENDA</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Technology Production Website</a></li>"
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mdcpsportal.dadeschools.net/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">BRANDON CUERO</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"---\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://drive.google.com/drive/folders/0B2XrvlbF8MgrWFFCXzdPWVhSelU\" target=\"_blank\">GOOGLE DRIVE | LOGON</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://docs.google.com/document/d/1uxUNLACK2RCgNp5FWE38DdGZ9fUhRY3e_xpdkjI_Ax0/pub\" target=\"_blank\">CLASS AGENDA</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://mas.dadeschools.net/pate%20class%20website/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TECHNOLOGY PRODUCTION WEBSITE<br>[MR. PATE]<br></a></li>"
         },
         {
           "_inherit": "header1",
@@ -103,7 +103,7 @@
           },
           "title": "Technology Production<br>-Personal Website-",
           "text": "About Me:<br>CUERO, BRANDON M. &nbsp;0373633<br><br>School: [6052] Miami Arts Studio<br>District: 13",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mas.dadeschools.net\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">School Website</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mas.dadeschools.net\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SCHOOL WEBSITE</a>  "
         },
         {
           "_tags": [
